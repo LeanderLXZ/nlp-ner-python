@@ -9,4 +9,4 @@ We used two datasets for testing:
 1. CoNLL-2000
 2. ScienceExamCER
 
-The details of the experiments and results are in the report.pdf file.
+The details of the experiments and results are in the docs/report.pdf file.
