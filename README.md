@@ -10,3 +10,8 @@ We used two datasets for testing:
 2. ScienceExamCER
 
 The details of the experiments and results are in the docs/report.pdf file.
+
+### Results and Reports
+![](imgs/report -1.jpg)
+![](imgs/report -2.jpg)
+![](imgs/report -3.jpg)
